@@ -1,7 +1,8 @@
 # ParticleGround-Portfolio
+![](https://github.com/nickitaliano/nickitaliano.github.io/blob/master/gitpage.gif)
+
 
 A particle-theme template as a landing page for your portfolio.
-![](https://github.com/nickitaliano/nickitaliano/blob/master/gitpage.gif)
 
 # Using the Template
 
